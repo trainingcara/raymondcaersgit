@@ -1,1 +1,1 @@
-#test
+Get-Service -Name ‘spooler’
